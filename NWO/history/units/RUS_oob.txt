@@ -22,6 +22,18 @@ UKR = {
 	influence_value = 25
 	military_access = yes
 }
+SOT = {
+	level = 5
+	value = 125
+	influence_value = 25
+	military_access = yes
+}
+ABK = {
+	level = 5
+	value = 125
+	influence_value = 25
+	military_access = yes
+}
 CZH = {
 	level = 1
 	value = -75
@@ -81,18 +93,6 @@ MGL = {
 	military_access = yes
 }
 TRD = {
-	level = 5
-	value = 125
-	influence_value = 25
-	military_access = yes
-}
-SOT = {
-	level = 5
-	value = 125
-	influence_value = 25
-	military_access = yes
-}
-ABK = {
 	level = 5
 	value = 125
 	influence_value = 25
@@ -413,8 +413,8 @@ army = {
 	}
 }
 army = {
-	name = "Russia Moscow Army"
-	location = 1008
+	name = "Russia Central Army"
+	location = 1044
 	regiment = {
 		name= "Regiment nr1"
 		type = infantry
@@ -2329,8 +2329,8 @@ navy = {
 	}
 }
 navy = {
-	name = "Russia Kola Navy"
-	location = 2587
+	name = "Russia Northern Navy"
+	location = 994
 	ship = {
 		name= "Chip nr1"
 		type = steam_transport

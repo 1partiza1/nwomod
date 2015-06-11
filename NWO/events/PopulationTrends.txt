@@ -152,11 +152,13 @@ country_event = { # family_values
 	
 	trigger = {
 		NOT = { has_country_modifier = demographics_culture }
-       	NOT = {	pop_majority_religion = irreligion }
+
 		any_owned_province = {
 			NOT = { has_province_modifier = family_values }
-			NOT = { literacy =  0.2 }
-       	}
+			OR = {
+        NOT = { literacy =  0.2 } 
+       	NOT = {	pop_majority_religion = irreligion } }
+        	}
 	}
 	
 	option = {
@@ -168,22 +170,13 @@ country_event = { # family_values
 		any_owned = {
 			limit = {
 				NOT = { has_province_modifier = family_values }
-				literacy =  0.05
-				NOT = { literacy =  0.2 }
+				OR = {
+ 				NOT = {	pop_majority_religion = irreligion }
+				NOT = { literacy =  0.2 } }
 			}
 			add_province_modifier = {
 				name = family_values
 				duration = 1750
-			}
-		}
-		any_owned = {
-			limit = {
-				NOT = { has_province_modifier = family_values }
-				NOT = { literacy =  0.05 }
-			}
-			add_province_modifier = {
-				name = family_values
-				duration = 3500
 			}
 		}
 	}

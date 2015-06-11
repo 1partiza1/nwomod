@@ -1,5 +1,5 @@
-owner = RUS
-controller = RUS
+owner = CHC
+controller = CHC
 add_core = IGU
 add_core = RUS
 trade_goods = wool

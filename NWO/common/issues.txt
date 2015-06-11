@@ -81,7 +81,6 @@ party_issues = {
 				pop_expand_factory = yes
 				pop_open_factory = yes
 				delete_factory_if_no_input = no
-				open_factory_invest = yes
 				build_factory_invest = yes
 				expand_factory_invest = yes
 				allow_foreign_investment = yes
@@ -115,12 +114,16 @@ party_issues = {
 	religious_policy = {
 		pro_atheism = {
 			global_population_growth = -0.0005
-		}
-		pluralism = {
-			#no effect
+		    research_points_modifier = 0.1
 		}
 		secularized = {
-			#no effect
+			administrative_efficiency_modifier = 0.1
+			rich_luxury_needs = -0.05			
+			poor_luxury_needs = -0.05
+			middle_luxury_needs = -0.05
+		}
+		pluralism = {
+			global_immigrant_attract = 0.05
 		}
 		moralism = {
 			global_population_growth = 0.0005
@@ -608,22 +611,23 @@ social_reforms = {
 		no_health_care = {
 		}
 		trinket_health_care = {
-			global_population_growth = 0.0005
+			global_population_growth = 0.0008
 			global_immigrant_attract = 0.05
 			administrative_multiplier = 1
 		}
 		low_health_care = {
+			global_population_growth = 0.0016
 			global_immigrant_attract = 0.1
 			administrative_multiplier = 2
 		}
 		acceptable_health_care = {
-			global_population_growth = -0.0001
+			global_population_growth = 0.0024
 			global_immigrant_attract = 0.15
 			administrative_multiplier = 3
 			global_pop_consciousness_modifier = -0.01
 		}
 		good_health_care = {
-			global_population_growth = -0.0005
+			global_population_growth = 0.0032
 			global_immigrant_attract = 0.2
 			administrative_multiplier = 4
 			global_pop_consciousness_modifier = -0.02

@@ -12,7 +12,7 @@ cavalry = {
 	priority = 25
 	max_strength = 3
 	default_organisation = 30
-	maximum_speed = 10.00
+	maximum_speed = 500.00
 	weighted_value = 13
 
 

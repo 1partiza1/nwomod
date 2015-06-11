@@ -125,3 +125,9 @@ power_projection = 1
 consciousness = 5
 nonstate_consciousness = 5
 schools = army_tech_school
+
+oob = "/CHC_oob.txt"
+
+1991.11.14 = {
+decision = ethnic_cleansing
+}

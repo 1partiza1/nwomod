@@ -480,12 +480,12 @@
 		size = 31902
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 56805
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 64056
 	 } 
@@ -593,12 +593,12 @@
 		size = 25754
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 13077
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 14747
 	 } 
@@ -709,12 +709,12 @@
 		size = 10115
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 3906
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 4405
 	 } 
@@ -2200,12 +2200,12 @@
 		size = 10016
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 31632
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 100168
 	 } 
@@ -2368,12 +2368,12 @@
 		size = 9462
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 29880
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 94620
 	 } 
@@ -2481,12 +2481,12 @@
 		size = 7668
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 19404
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 61446
 	 } 
@@ -2594,12 +2594,12 @@
 		size = 35732
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 90426
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 286349
 	 } 
@@ -2607,102 +2607,102 @@
 #Hull - Hull (1541000/385250 POPS)
 281 = {
 	officers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 120
 	 } 
 	officers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 380
 	 } 
 	soldiers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 481
 	 } 
 	soldiers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 1523
 	 } 
 	aristocrats = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 2311
 	 } 
 	aristocrats = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 7319
 	 } 
 	bureaucrats = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 554
 	 } 
 	bureaucrats = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 1756
 	 } 
 	capitalists = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 554
 	 } 
 	capitalists = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 1756
 	 } 
 	clergymen = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 1849
 	 } 
 	clergymen = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 5855
 	 } 
 	clerks = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 2757
 	 } 
 	clerks = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 8733
 	 } 
 	artisans = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 2620
 	 } 
 	artisans = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 8296
 	 } 
 	craftsmen = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 8411
 	 } 
 	craftsmen = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 26637
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 72798
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 230530
 	 } 
@@ -2865,12 +2865,12 @@
 		size = 7847
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 24780
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 78470
 	 } 
@@ -2878,102 +2878,102 @@
 #Sheffield - Sheffield (1245000/311250 POPS)
 283 = {
 	officers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 97
 	 } 
 	officers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 307
 	 } 
 	soldiers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 388
 	 } 
 	soldiers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 1231
 	 } 
 	aristocrats = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 1867
 	 } 
 	aristocrats = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 5913
 	 } 
 	bureaucrats = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 448
 	 } 
 	bureaucrats = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 1418
 	 } 
 	capitalists = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 448
 	 } 
 	capitalists = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 1418
 	 } 
 	clergymen = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 1494
 	 } 
 	clergymen = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 4731
 	 } 
 	clerks = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 2228
 	 } 
 	clerks = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 7055
 	 } 
 	artisans = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 2116
 	 } 
 	artisans = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 6703
 	 } 
 	craftsmen = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 6796
 	 } 
 	craftsmen = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 21520
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 58815
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 186248
 	 } 
@@ -3136,12 +3136,12 @@
 		size = 12642
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 29942
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 94819
 	 } 
@@ -3149,102 +3149,102 @@
 #Chester - Chester (953000/238250 POPS)
 285 = {
 	officers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 74
 	 } 
 	officers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 235
 	 } 
 	soldiers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 297
 	 } 
 	soldiers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 942
 	 } 
 	aristocrats = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 1429
 	 } 
 	aristocrats = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 4526
 	 } 
 	bureaucrats = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 342
 	 } 
 	bureaucrats = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 1086
 	 } 
 	capitalists = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 342
 	 } 
 	capitalists = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 1086
 	 } 
 	clergymen = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 1143
 	 } 
 	clergymen = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 3621
 	 } 
 	clerks = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 1705
 	 } 
 	clerks = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 5401
 	 } 
 	artisans = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 1620
 	 } 
 	artisans = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 5130
 	 } 
 	craftsmen = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 5202
 	 } 
 	craftsmen = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 16473
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 45020
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 142566
 	 } 
@@ -3252,102 +3252,102 @@
 #Shrewesbury - Shrewesbury (608000/152000 POPS)
 286 = {
 	officers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 47
 	 } 
 	officers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 149
 	 } 
 	soldiers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 189
 	 } 
 	soldiers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 601
 	 } 
 	aristocrats = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 912
 	 } 
 	aristocrats = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 2888
 	 } 
 	bureaucrats = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 218
 	 } 
 	bureaucrats = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 693
 	 } 
 	capitalists = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 218
 	 } 
 	capitalists = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 693
 	 } 
 	clergymen = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 729
 	 } 
 	clergymen = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 2310
 	 } 
 	clerks = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 1088
 	 } 
 	clerks = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 3445
 	 } 
 	artisans = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 1033
 	 } 
 	artisans = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 3273
 	 } 
 	craftsmen = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 3318
 	 } 
 	craftsmen = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 10510
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 28722
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 90955
 	 } 
@@ -3355,102 +3355,102 @@
 #Coventry - Coventry (1030000/257500 POPS)
 287 = {
 	officers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 80
 	 } 
 	officers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 254
 	 } 
 	soldiers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 321
 	 } 
 	soldiers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 1018
 	 } 
 	aristocrats = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 1544
 	 } 
 	aristocrats = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 4892
 	 } 
 	bureaucrats = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 370
 	 } 
 	bureaucrats = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 1174
 	 } 
 	capitalists = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 370
 	 } 
 	capitalists = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 1174
 	 } 
 	clergymen = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 1236
 	 } 
 	clergymen = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 3914
 	 } 
 	clerks = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 1843
 	 } 
 	clerks = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 5837
 	 } 
 	artisans = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 1751
 	 } 
 	artisans = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 5545
 	 } 
 	craftsmen = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 5622
 	 } 
 	craftsmen = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 17804
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 48658
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 154084
 	 } 
@@ -3558,12 +3558,12 @@
 		size = 32462
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 82152
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 260148
 	 } 
@@ -3571,102 +3571,102 @@
 #Leicester - Leicester (943000/235750 POPS)
 289 = {
 	officers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 73
 	 } 
 	officers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 232
 	 } 
 	soldiers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 294
 	 } 
 	soldiers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 932
 	 } 
 	aristocrats = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 1414
 	 } 
 	aristocrats = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 4478
 	 } 
 	bureaucrats = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 339
 	 } 
 	bureaucrats = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 1074
 	 } 
 	capitalists = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 339
 	 } 
 	capitalists = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 1074
 	 } 
 	clergymen = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 1131
 	 } 
 	clergymen = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 3583
 	 } 
 	clerks = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 1687
 	 } 
 	clerks = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 5344
 	 } 
 	artisans = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 1603
 	 } 
 	artisans = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 5076
 	 } 
 	craftsmen = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 5147
 	 } 
 	craftsmen = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 16300
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 44549
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 141071
 	 } 
@@ -3674,102 +3674,102 @@
 #Lincoln - Lincoln (967000/241750 POPS)
 290 = {
 	officers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 75
 	 } 
 	officers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 238
 	 } 
 	soldiers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 301
 	 } 
 	soldiers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 956
 	 } 
 	aristocrats = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 1450
 	 } 
 	aristocrats = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 4592
 	 } 
 	bureaucrats = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 348
 	 } 
 	bureaucrats = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 1102
 	 } 
 	capitalists = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 348
 	 } 
 	capitalists = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 1102
 	 } 
 	clergymen = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 1160
 	 } 
 	clergymen = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 3674
 	 } 
 	clerks = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 1730
 	 } 
 	clerks = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 5480
 	 } 
 	artisans = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 1644
 	 } 
 	artisans = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 5206
 	 } 
 	craftsmen = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 5278
 	 } 
 	craftsmen = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 16715
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 45682
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 144662
 	 } 
@@ -3877,12 +3877,12 @@
 		size = 21891
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 55397
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 175426
 	 } 
@@ -3890,102 +3890,102 @@
 #Ipswich - Ipswich (1473000/368250 POPS)
 292 = {
 	officers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 114
 	 } 
 	officers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 364
 	 } 
 	soldiers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 460
 	 } 
 	soldiers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 1456
 	 } 
 	aristocrats = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 2209
 	 } 
 	aristocrats = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 6996
 	 } 
 	bureaucrats = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 530
 	 } 
 	bureaucrats = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 1678
 	 } 
 	capitalists = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 530
 	 } 
 	capitalists = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 1678
 	 } 
 	clergymen = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 1767
 	 } 
 	clergymen = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 5597
 	 } 
 	clerks = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 2636
 	 } 
 	clerks = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 8347
 	 } 
 	artisans = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 2504
 	 } 
 	artisans = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 7930
 	 } 
 	craftsmen = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 8040
 	 } 
 	craftsmen = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 25462
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 69586
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 220356
 	 } 
@@ -3993,102 +3993,102 @@
 #Chelmsford - Chelmsford (1294000/323500 POPS)
 293 = {
 	officers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 101
 	 } 
 	officers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 319
 	 } 
 	soldiers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 404
 	 } 
 	soldiers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 1279
 	 } 
 	aristocrats = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 1940
 	 } 
 	aristocrats = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 6146
 	 } 
 	bureaucrats = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 465
 	 } 
 	bureaucrats = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 1475
 	 } 
 	capitalists = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 465
 	 } 
 	capitalists = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 1475
 	 } 
 	clergymen = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 1552
 	 } 
 	clergymen = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 4917
 	 } 
 	clerks = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 2316
 	 } 
 	clerks = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 7334
 	 } 
 	artisans = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 2200
 	 } 
 	artisans = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 6966
 	 } 
 	craftsmen = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 7063
 	 } 
 	craftsmen = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 22368
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 61129
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 193577
 	 } 
@@ -4196,12 +4196,12 @@
 		size = 23202
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 58715
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 185933
 	 } 
@@ -4309,12 +4309,12 @@
 		size = 28863
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 73038
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 231287
 	 } 
@@ -4322,102 +4322,102 @@
 #Bristol - Bristol (955000/238750 POPS)
 296 = {
 	officers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 74
 	 } 
 	officers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 235
 	 } 
 	soldiers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 298
 	 } 
 	soldiers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 944
 	 } 
 	aristocrats = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 1432
 	 } 
 	aristocrats = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 4535
 	 } 
 	bureaucrats = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 343
 	 } 
 	bureaucrats = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 1088
 	 } 
 	capitalists = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 343
 	 } 
 	capitalists = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 1088
 	 } 
 	clergymen = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 1146
 	 } 
 	clergymen = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 3629
 	 } 
 	clerks = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 1709
 	 } 
 	clerks = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 5411
 	 } 
 	artisans = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 1623
 	 } 
 	artisans = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 5141
 	 } 
 	craftsmen = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 5213
 	 } 
 	craftsmen = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 16507
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 45115
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 142867
 	 } 
@@ -4425,102 +4425,102 @@
 #Salisbury - Salisbury (1325000/331250 POPS)
 297 = {
 	officers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 103
 	 } 
 	officers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 327
 	 } 
 	soldiers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 413
 	 } 
 	soldiers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 1310
 	 } 
 	aristocrats = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 1987
 	 } 
 	aristocrats = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 6293
 	 } 
 	bureaucrats = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 476
 	 } 
 	bureaucrats = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 1510
 	 } 
 	capitalists = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 476
 	 } 
 	capitalists = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 1510
 	 } 
 	clergymen = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 1590
 	 } 
 	clergymen = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 5035
 	 } 
 	clerks = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 2371
 	 } 
 	clerks = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 7509
 	 } 
 	artisans = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 2252
 	 } 
 	artisans = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 7133
 	 } 
 	craftsmen = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 7232
 	 } 
 	craftsmen = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 22904
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 62594
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 198216
 	 } 
@@ -4528,102 +4528,102 @@
 #Bath - Bath (844000/211000 POPS)
 298 = {
 	officers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 65
 	 } 
 	officers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 208
 	 } 
 	soldiers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 263
 	 } 
 	soldiers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 834
 	 } 
 	aristocrats = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 1266
 	 } 
 	aristocrats = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 4009
 	 } 
 	bureaucrats = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 303
 	 } 
 	bureaucrats = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 962
 	 } 
 	capitalists = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 303
 	 } 
 	capitalists = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 962
 	 } 
 	clergymen = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 1012
 	 } 
 	clergymen = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 3207
 	 } 
 	clerks = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 1510
 	 } 
 	clerks = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 4783
 	 } 
 	artisans = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 1434
 	 } 
 	artisans = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 4544
 	 } 
 	craftsmen = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 4607
 	 } 
 	craftsmen = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 14588
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 39871
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 126260
 	 } 
@@ -4631,102 +4631,102 @@
 #Plymouth - Plymouth (1549000/387250 POPS)
 299 = {
 	officers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 120
 	 } 
 	officers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 383
 	 } 
 	soldiers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 483
 	 } 
 	soldiers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 1532
 	 } 
 	aristocrats = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 2323
 	 } 
 	aristocrats = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 7357
 	 } 
 	bureaucrats = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 557
 	 } 
 	bureaucrats = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 1765
 	 } 
 	capitalists = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 557
 	 } 
 	capitalists = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 1765
 	 } 
 	clergymen = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 1858
 	 } 
 	clergymen = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 5886
 	 } 
 	clerks = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 2772
 	 } 
 	clerks = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 8778
 	 } 
 	artisans = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 2633
 	 } 
 	artisans = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 8340
 	 } 
 	craftsmen = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 8455
 	 } 
 	craftsmen = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 26776
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 73176
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 231724
 	 } 
@@ -4899,12 +4899,12 @@
 		size = 28914
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 45654
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 144571
 	 } 
@@ -4917,102 +4917,102 @@
 #Canterbury - Canterbury (1605000/401250 POPS)
 301 = {
 	officers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 125
 	 } 
 	officers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 396
 	 } 
 	soldiers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 501
 	 } 
 	soldiers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 1587
 	 } 
 	aristocrats = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 2407
 	 } 
 	aristocrats = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 7623
 	 } 
 	bureaucrats = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 577
 	 } 
 	bureaucrats = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 1829
 	 } 
 	capitalists = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 577
 	 } 
 	capitalists = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 1829
 	 } 
 	clergymen = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 1926
 	 } 
 	clergymen = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 6099
 	 } 
 	clerks = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 2872
 	 } 
 	clerks = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 9096
 	 } 
 	artisans = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 2728
 	 } 
 	artisans = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 8641
 	 } 
 	craftsmen = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 8761
 	 } 
 	craftsmen = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 27744
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 75821
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 240102
 	 } 
@@ -5020,102 +5020,102 @@
 #Brighton - Brighton (2539000/634750 POPS)
 302 = {
 	officers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 198
 	 } 
 	officers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 627
 	 } 
 	soldiers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 792
 	 } 
 	soldiers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 2511
 	 } 
 	aristocrats = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 3808
 	 } 
 	aristocrats = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 12059
 	 } 
 	bureaucrats = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 913
 	 } 
 	bureaucrats = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 2894
 	 } 
 	capitalists = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 913
 	 } 
 	capitalists = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 2894
 	 } 
 	clergymen = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 3046
 	 } 
 	clergymen = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 9648
 	 } 
 	clerks = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 4544
 	 } 
 	clerks = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 14389
 	 } 
 	artisans = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 4316
 	 } 
 	artisans = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 13670
 	 } 
 	craftsmen = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 13859
 	 } 
 	craftsmen = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 43889
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 119945
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 379825
 	 } 
@@ -5278,12 +5278,12 @@
 		size = 6699
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 52890
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 167485
 	 } 
@@ -5291,102 +5291,102 @@
 #Isle of Man - Isle of Man (77000/19250 POPS)
 304 = {
 	officers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 6
 	 } 
 	officers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 19
 	 } 
 	soldiers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 24
 	 } 
 	soldiers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 76
 	 } 
 	aristocrats = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 115
 	 } 
 	aristocrats = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 365
 	 } 
 	bureaucrats = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 27
 	 } 
 	bureaucrats = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 87
 	 } 
 	capitalists = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 27
 	 } 
 	capitalists = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 87
 	 } 
 	clergymen = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 92
 	 } 
 	clergymen = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 292
 	 } 
 	clerks = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 137
 	 } 
 	clerks = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 436
 	 } 
 	artisans = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 130
 	 } 
 	artisans = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 414
 	 } 
 	craftsmen = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 420
 	 } 
 	craftsmen = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 1330
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 3638
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 11520
 	 } 
@@ -5494,12 +5494,12 @@
 		size = 19722
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion =  protestant 
 		size = 906
 	 } 
 	farmers = {
-		culture = english
+		culture = white_anglo
 		religion = irreligion
 		size = 2869
 	 } 

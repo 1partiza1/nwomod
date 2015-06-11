@@ -1,4 +1,4 @@
-graphical_culture = EuropeanGC
+﻿graphical_culture = EuropeanGC
 color = { 255 69 0 }
 party = {
 		name = "party_conservative_0_POL"

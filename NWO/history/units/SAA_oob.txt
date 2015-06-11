@@ -1,3 +1,9 @@
+CHC = {
+	value = 155
+	influence_value = 100
+	military_access = yes
+}
+
 army = {
 	name = "Saudi Arabia Riyadh Army"
 	location = 1157

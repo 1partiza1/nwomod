@@ -1337,4 +1337,3 @@ uninstall_communist_gov_cb = {
 	}
 }
 
-

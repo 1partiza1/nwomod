@@ -27,7 +27,7 @@ political_parties = parties_only_nominated
 religious_rights = no_state_religion
 lgbt_rights = lgbt_outlawed
 publishing_rights = censored_publishing
-gender_rights = gender_role_based
+gender_rights = gender_promotive 
 vote_franschise = registered_voting
 # Social Reforms
 safety_regulations = some_regulations

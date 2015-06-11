@@ -1,11 +1,11 @@
-graphical_culture = RussianGC
+﻿graphical_culture = RussianGC
 color = { 176 196 222 }
 party = {
 		name = "party_conservative_0_RUS"
 		citizenship_policy = limited_citizenship
 		economic_policy = interventionism
 		ideology = conservative
-		religious_policy = pluralism
+		religious_policy = moralism
 		trade_policy = free_trade
 		war_policy = pro_military
 		start_date = 1836.1.1

@@ -40,12 +40,12 @@
 		religion = irreligion
 		size = 218
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 182
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 261
@@ -143,12 +143,12 @@
 		religion = irreligion
 		size = 1071
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 893
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 1285
@@ -246,12 +246,12 @@
 		religion = irreligion
 		size = 505
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 421
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 607
@@ -349,12 +349,12 @@
 		religion = irreligion
 		size = 200
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 167
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 240
@@ -452,12 +452,12 @@
 		religion = irreligion
 		size = 218
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 182
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 261
@@ -555,12 +555,12 @@
 		religion = irreligion
 		size = 470
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 392
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 564
@@ -658,12 +658,12 @@
 		religion = irreligion
 		size = 145
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 120
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 174
@@ -721,6 +721,36 @@
 }
 #Moscow - Moscow (15413000/3853250 POPS)
 1008 = {
+	 capitalists = {
+		culture = jewish
+		religion =  jewish 
+		size = 240
+	 } 
+	 capitalists = {
+		culture = jewish
+		religion =  irreligion 
+		size = 240
+	 } 
+	 capitalists = {
+		culture = russian
+		religion =  orthodox 
+		size = 720
+	 } 
+	 capitalists = {
+		culture = georgian
+		religion =  orthodox 
+		size = 120
+	 } 
+	 capitalists = {
+		culture = chechen
+		religion =  sunni 
+		size = 240
+	 } 
+	 capitalists = {
+		culture = azerbaijani
+		religion =  sunni 
+		size = 120
+	 } 
 	officers = {
 		culture = russian
 		religion =  orthodox 
@@ -761,12 +791,12 @@
 		religion = irreligion
 		size = 11366
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 9478
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 13640
@@ -866,6 +896,21 @@
 		religion =  sunni 
 		size = 38532
 	 } 
+	farmers = {
+		culture = chechen
+		religion =  sunni 
+		size = 1100
+	 } 
+	aristocrats = {
+		culture = chechen
+		religion =  sunni 
+		size = 35
+	 } 
+	bureaucrats = {
+		culture = chechen
+		religion =  sunni  
+		size = 109
+	 } 
 }
 #Borodino - Borodino (197000/49250 POPS)
 1009 = {
@@ -909,12 +954,12 @@
 		religion = irreligion
 		size = 145
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 120
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 174
@@ -1012,12 +1057,12 @@
 		religion = irreligion
 		size = 777
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 648
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 932
@@ -1115,12 +1160,12 @@
 		religion = irreligion
 		size = 1361
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 1135
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 1633
@@ -1218,12 +1263,12 @@
 		religion = irreligion
 		size = 980
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 817
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 1177
@@ -1321,12 +1366,12 @@
 		religion = irreligion
 		size = 1204
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 1004
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 1446
@@ -1424,12 +1469,12 @@
 		religion = irreligion
 		size = 437
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 364
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 524
@@ -1527,12 +1572,12 @@
 		religion = irreligion
 		size = 459
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 382
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 551
@@ -1630,12 +1675,12 @@
 		religion = irreligion
 		size = 1074
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 895
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 1289
@@ -1733,12 +1778,12 @@
 		religion = irreligion
 		size = 649
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 541
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 778
@@ -1836,12 +1881,12 @@
 		religion = irreligion
 		size = 1005
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 838
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 1207
@@ -1909,6 +1954,11 @@
 }
 #Voronets - Voronets (2441000/610250 POPS)
 1019 = {
+ capitalists = {
+		culture = russian
+		religion =  orthodox 
+		size = 300
+	 } 
 	officers = {
 		culture = russian
 		religion =  orthodox 
@@ -1949,12 +1999,12 @@
 		religion = irreligion
 		size = 1800
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 1501
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 2159
@@ -2062,12 +2112,12 @@
 		religion = irreligion
 		size = 2708
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 2258
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 3250
@@ -2156,7 +2206,7 @@
 		size = 6252
 	 } 
 	aristocrats = {
-		culture = russian
+		culture = mordovian
 		religion = irreligion
 		size = 8997
 	 } 
@@ -2170,12 +2220,12 @@
 		religion = irreligion
 		size = 1799
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 1500
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 2159
@@ -2288,12 +2338,12 @@
 		religion = irreligion
 		size = 959
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 800
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 1152
@@ -2391,12 +2441,12 @@
 		religion = irreligion
 		size = 297
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 248
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 357
@@ -2494,12 +2544,12 @@
 		religion = irreligion
 		size = 290
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 242
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 349
@@ -2597,12 +2647,12 @@
 		religion = irreligion
 		size = 962
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 802
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 1154
@@ -2700,12 +2750,12 @@
 		religion = irreligion
 		size = 2259
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 1884
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 2711
@@ -2823,12 +2873,12 @@
 		religion = irreligion
 		size = 218
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 182
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 261
@@ -2926,12 +2976,12 @@
 		religion = irreligion
 		size = 218
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 182
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 261
@@ -3029,12 +3079,12 @@
 		religion = irreligion
 		size = 1233
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 1028
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 1480
@@ -3106,7 +3156,7 @@
 	 } 
 }
 #Kazan - Kazan (2967000/741750 POPS)
-1030 = {
+1032 = {
 	officers = {
 		culture = russian
 		religion =  orthodox 
@@ -3147,12 +3197,12 @@
 		religion = irreligion
 		size = 2187
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 1824
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 2625
@@ -3214,7 +3264,7 @@
 	 } 
 	farmers = {
 		culture = chuvash
-		religion =  sunni 
+		religion =  orthodox 
 		size = 29670
 	 } 
 }
@@ -3246,7 +3296,7 @@
 		size = 4122
 	 } 
 	aristocrats = {
-		culture = russian
+		culture = udmurt
 		religion = irreligion
 		size = 5933
 	 } 
@@ -3260,12 +3310,12 @@
 		religion = irreligion
 		size = 1186
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 989
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 1423
@@ -3337,7 +3387,12 @@
 	 } 
 }
 #Chistopol - Mari El (479000/119750 POPS)
-1032 = {
+1030 = {
+	 capitalists = {
+		culture = tatar
+		religion =  sunni 
+		size = 305
+	 } 
 	officers = {
 		culture = russian
 		religion =  orthodox 
@@ -3359,8 +3414,8 @@
 		size = 565
 	 } 
 	aristocrats = {
-		culture = russian
-		religion =  orthodox 
+		culture = mari
+		religion =  irreligion 
 		size = 1227
 	 } 
 	aristocrats = {
@@ -3378,12 +3433,12 @@
 		religion = irreligion
 		size = 352
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 294
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 423
@@ -3455,7 +3510,7 @@
 	 } 
 	farmers = {
 		culture = chuvash
-		religion =  sunni 
+		religion =  orthodox 
 		size = 1197
 	 } 
 }
@@ -3501,12 +3556,12 @@
 		religion = irreligion
 		size = 985
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 821
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 1182
@@ -3568,8 +3623,13 @@
 	 } 
 	farmers = {
 		culture = chuvash
-		religion =  sunni 
-		size = 227120
+		religion =  irreligion 
+		size = 177120
+	 } 
+	farmers = {
+		culture = chuvash
+		religion =  orthodox 
+		size = 57120
 	 } 
 }
 #Samara - Tataristan (637000/159250 POPS)
@@ -3595,8 +3655,8 @@
 		size = 751
 	 } 
 	aristocrats = {
-		culture = russian
-		religion =  orthodox 
+		culture = tatar
+		religion =  sunni 
 		size = 1632
 	 } 
 	aristocrats = {
@@ -3614,12 +3674,12 @@
 		religion = irreligion
 		size = 469
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 391
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 563
@@ -3681,7 +3741,7 @@
 	 } 
 	farmers = {
 		culture = chuvash
-		religion =  sunni 
+		religion =  orthodox 
 		size = 6370
 	 } 
 }
@@ -3727,12 +3787,12 @@
 		religion = irreligion
 		size = 1020
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 851
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 1224
@@ -3794,7 +3854,7 @@
 	 } 
 	farmers = {
 		culture = chuvash
-		religion =  sunni 
+		religion =  orthodox 
 		size = 27680
 	 } 
 	farmers = {
@@ -3850,12 +3910,12 @@
 		religion = irreligion
 		size = 581
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 485
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 697
@@ -3963,12 +4023,12 @@
 		religion = irreligion
 		size = 1958
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 1633
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 2350
@@ -4076,12 +4136,12 @@
 		religion = irreligion
 		size = 212
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 177
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 255
@@ -4184,12 +4244,12 @@
 		religion = irreligion
 		size = 1676
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 1398
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 2012
@@ -4292,12 +4352,12 @@
 		religion = irreligion
 		size = 145
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 120
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 174
@@ -4365,6 +4425,12 @@
 }
 #Elitsa - Kalmykia (318000/79500 POPS)
 1041 = {
+
+	 capitalists = {
+		culture = kalmyk
+		religion =  mahayana 
+		size = 300
+	 } 
 	officers = {
 		culture = russian
 		religion =  orthodox 
@@ -4391,7 +4457,7 @@
 		size = 814
 	 } 
 	aristocrats = {
-		culture = russian
+		culture = kalmyk
 		religion = irreligion
 		size = 1172
 	 } 
@@ -4405,12 +4471,12 @@
 		religion = irreligion
 		size = 234
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 195
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 281
@@ -4472,7 +4538,7 @@
 	 } 
 	farmers = {
 		culture = kalmyk
-		religion = irreligion
+		religion = buddhist
 		size = 21576
 	 } 
 	farmers = {
@@ -4488,6 +4554,12 @@
 }
 #Ufa - Bashkortostan (3950000/987500 POPS)
 1042 = {
+
+	 capitalists = {
+		culture = bashkir
+		religion =  sunni 
+		size = 600
+	 } 
 	officers = {
 		culture = russian
 		religion =  orthodox 
@@ -4514,8 +4586,8 @@
 		size = 10121
 	 } 
 	aristocrats = {
-		culture = russian
-		religion = irreligion
+		culture = bashkir
+		religion = sunni
 		size = 14565
 	 } 
 	bureaucrats = {
@@ -4528,12 +4600,12 @@
 		religion = irreligion
 		size = 2912
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 2429
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 3495
@@ -4600,7 +4672,7 @@
 	 } 
 	farmers = {
 		culture = chuvash
-		religion =  sunni 
+		religion =  orthodox 
 		size = 29625
 	 } 
 	farmers = {
@@ -4626,6 +4698,12 @@
 }
 #Busuluk - Busuluk (3229000/807250 POPS)
 1043 = {
+
+	 capitalists = {
+		culture = russian
+		religion =  irreligion 
+		size = 300
+	 } 
 	officers = {
 		culture = russian
 		religion =  orthodox 
@@ -4666,12 +4744,12 @@
 		religion = irreligion
 		size = 2381
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 1985
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 2857
@@ -4733,7 +4811,7 @@
 	 } 
 	farmers = {
 		culture = chuvash
-		religion =  sunni 
+		religion =  orthodox 
 		size = 24217
 	 } 
 	farmers = {
@@ -4747,132 +4825,149 @@
 		size = 4762
 	 } 
 }
-#Orenburg - Orenburg (1075000/268750 POPS)
+#Orenburg - Orenburg (1067000/266750 POPS)
 1044 = {
+
+	 capitalists = {
+		culture = russian
+		religion =  orthodox 
+		size = 600
+	 } 
+	 officers = {
+		culture = russian
+		religion =  orthodox 
+		size = 600
+	 } 
 	officers = {
 		culture = russian
 		religion =  orthodox 
-		size = 423
+		size = 425
 	 } 
 	officers = {
 		culture = russian
 		religion = irreligion
-		size = 609
+		size = 612
 	 } 
 	soldiers = {
 		culture = russian
 		religion =  orthodox 
-		size = 1694
+		size = 1702
 	 } 
 	soldiers = {
 		culture = russian
 		religion = irreligion
-		size = 2438
+		size = 2449
 	 } 
 	aristocrats = {
 		culture = russian
 		religion =  orthodox 
-		size = 2754
+		size = 198
 	 } 
 	aristocrats = {
 		culture = russian
 		religion = irreligion
-		size = 3963
+		size = 286
 	 } 
 	bureaucrats = {
 		culture = russian
 		religion =  orthodox 
-		size = 550
+		size = 397
 	 } 
 	bureaucrats = {
 		culture = russian
 		religion = irreligion
-		size = 792
-	 } 
-	capitalists = {
-		culture = russian
-		religion =  orthodox 
-		size = 660
-	 } 
-	capitalists = {
-		culture = russian
-		religion = irreligion
-		size = 951
-	 } 
-	clergymen = {
-		culture = russian
-		religion =  orthodox 
-		size = 1101
-	 } 
-	clergymen = {
-		culture = russian
-		religion = irreligion
-		size = 1585
+		size = 572
 	 } 
 	clerks = {
 		culture = russian
 		religion =  orthodox 
-		size = 1888
+		size = 99
 	 } 
 	clerks = {
 		culture = russian
 		religion = irreligion
-		size = 2717
+		size = 142
+	 } 
+	clergymen = {
+		culture = russian
+		religion =  orthodox 
+		size = 99
+	 } 
+	clergymen = {
+		culture = russian
+		religion = irreligion
+		size = 142
+	 } 
+	clerks = {
+		culture = russian
+		religion =  orthodox 
+		size = 1193
+	 } 
+	clerks = {
+		culture = russian
+		religion = irreligion
+		size = 1716
 	 } 
 	artisans = {
 		culture = russian
 		religion =  orthodox 
-		size = 1794
+		size = 3182
 	 } 
 	artisans = {
 		culture = russian
 		religion = irreligion
-		size = 2581
+		size = 4579
 	 } 
 	craftsmen = {
 		culture = russian
 		religion =  orthodox 
-		size = 5760
+		size = 4773
 	 } 
 	craftsmen = {
 		culture = russian
 		religion = irreligion
-		size = 8289
+		size = 6869
 	 } 
 	farmers = {
 		culture = russian
 		religion =  orthodox 
-		size = 72622
+		size = 120594
 	 } 
 	farmers = {
 		culture = russian
 		religion = irreligion
-		size = 104506
+		size = 108661
 	 } 
 	farmers = {
 		culture = tatar
 		religion =  sunni 
-		size = 21500
+		size = 31600
 	 } 
 	farmers = {
 		culture = kazak
 		religion =  sunni 
-		size = 16125
+		size = 16800
 	 } 
 	farmers = {
 		culture = bashkir
 		religion =  sunni 
-		size = 5375
+		size = 9000
 	 } 
 	farmers = {
 		culture = ukrainian
 		religion =  orthodox 
-		size = 3305
+		size = 4319
 	 } 
 	farmers = {
 		culture = ukrainian
 		religion = irreligion
-		size = 4756
+		size = 12777
+	 } 
+
+	farmers = {
+		culture = german
+		religion =  catholic 
+		size = 9066
 	 } 
 }
 #Migolinskaya - Migolinskaya (989000/247250 POPS)
@@ -4917,12 +5012,12 @@
 		religion = irreligion
 		size = 729
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 608
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 874
@@ -5045,12 +5140,12 @@
 		religion = irreligion
 		size = 729
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 608
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 874
@@ -5173,12 +5268,12 @@
 		religion = irreligion
 		size = 729
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 608
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 874
@@ -5301,12 +5396,12 @@
 		religion = irreligion
 		size = 1864
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 1554
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 2237
@@ -5424,12 +5519,12 @@
 		religion = irreligion
 		size = 1885
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 1572
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 2262
@@ -5547,12 +5642,12 @@
 		religion = irreligion
 		size = 1757
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 1465
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 2108
@@ -5686,7 +5781,7 @@
 		size = 1093
 	 } 
 	aristocrats = {
-		culture = russian
+		culture = circassians
 		religion = irreligion
 		size = 1574
 	 } 
@@ -5700,12 +5795,12 @@
 		religion = irreligion
 		size = 314
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 262
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 377
@@ -5814,7 +5909,7 @@
 		size = 1921
 	 } 
 	aristocrats = {
-		culture = russian
+		culture = kabarday
 		religion = irreligion
 		size = 2765
 	 } 
@@ -5828,12 +5923,12 @@
 		religion = irreligion
 		size = 552
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 461
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 663
@@ -5942,8 +6037,8 @@
 		size = 212
 	 } 
 	aristocrats = {
-		culture = russian
-		religion =  orthodox 
+		culture = ingush
+		religion =  sunni 
 		size = 461
 	 } 
 	aristocrats = {
@@ -5961,12 +6056,12 @@
 		religion = irreligion
 		size = 132
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 110
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 159
@@ -6050,7 +6145,7 @@
 		size = 748
 	 } 
 	aristocrats = {
-		culture = russian
+		culture = ossetian
 		religion =  orthodox 
 		size = 1624
 	 } 
@@ -6069,12 +6164,12 @@
 		religion = irreligion
 		size = 467
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 389
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 561
@@ -6136,7 +6231,7 @@
 	 } 
 	farmers = {
 		culture = ossetian
-		religion = irreligion
+		religion = orthodox
 		size = 49562
 	 } 
 	farmers = {
@@ -6188,12 +6283,12 @@
 		size = 934
 	 } 
 	aristocrats = {
-		culture = russian
-		religion =  orthodox 
+		culture = karachay
+		religion =  irreligion 
 		size = 1055
 	 } 
 	aristocrats = {
-		culture = russian
+		culture = circassians
 		religion = irreligion
 		size = 1519
 	 } 
@@ -6207,12 +6302,12 @@
 		religion = irreligion
 		size = 303
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 253
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 364
@@ -6321,8 +6416,8 @@
 		size = 2126
 	 } 
 	aristocrats = {
-		culture = russian
-		religion =  orthodox 
+		culture = dargwa
+		religion =  sunni 
 		size = 4617
 	 } 
 	aristocrats = {
@@ -6340,12 +6435,12 @@
 		religion = irreligion
 		size = 1328
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 1108
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 1594
@@ -6438,6 +6533,17 @@
 }
 #Ekaterinburg - Ekaterinburg (4664000/1166000 POPS)
 1058 = {
+
+	 capitalists = {
+		culture = georgian
+		religion =  orthodox 
+		size = 300
+	 } 
+	 capitalists = {
+		culture = russian
+		religion =  orthodox 
+		size = 300
+	 } 
 	officers = {
 		culture = russian
 		religion =  orthodox 
@@ -6478,12 +6584,12 @@
 		religion = irreligion
 		size = 3439
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 2868
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 4127
@@ -6586,12 +6692,12 @@
 		religion = irreligion
 		size = 2642
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 2203
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 3170
@@ -6666,137 +6772,153 @@
 		religion = irreligion
 		size = 10569
 	 } 
-}
-#Orsk - Orsk (1075000/268750 POPS)
+}#Orsk - Orsk (1067000/266750 POPS)
 1060 = {
+
+	aristocrats = {
+		culture = german
+		religion =  catholic 
+		size = 2066
+	 } 
 	officers = {
 		culture = russian
 		religion =  orthodox 
-		size = 423
+		size = 425
 	 } 
 	officers = {
 		culture = russian
 		religion = irreligion
-		size = 609
+		size = 612
 	 } 
 	soldiers = {
 		culture = russian
 		religion =  orthodox 
-		size = 1694
+		size = 1702
 	 } 
 	soldiers = {
 		culture = russian
 		religion = irreligion
-		size = 2438
+		size = 2449
 	 } 
 	aristocrats = {
 		culture = russian
 		religion =  orthodox 
-		size = 2754
+		size = 198
 	 } 
 	aristocrats = {
 		culture = russian
 		religion = irreligion
-		size = 3963
+		size = 286
 	 } 
 	bureaucrats = {
 		culture = russian
 		religion =  orthodox 
-		size = 550
+		size = 397
 	 } 
 	bureaucrats = {
 		culture = russian
 		religion = irreligion
-		size = 792
-	 } 
-	capitalists = {
-		culture = russian
-		religion =  orthodox 
-		size = 660
-	 } 
-	capitalists = {
-		culture = russian
-		religion = irreligion
-		size = 951
-	 } 
-	clergymen = {
-		culture = russian
-		religion =  orthodox 
-		size = 1101
-	 } 
-	clergymen = {
-		culture = russian
-		religion = irreligion
-		size = 1585
+		size = 572
 	 } 
 	clerks = {
 		culture = russian
 		religion =  orthodox 
-		size = 1888
+		size = 99
 	 } 
 	clerks = {
 		culture = russian
 		religion = irreligion
-		size = 2717
+		size = 142
+	 } 
+	clergymen = {
+		culture = russian
+		religion =  orthodox 
+		size = 99
+	 } 
+	clergymen = {
+		culture = russian
+		religion = irreligion
+		size = 142
+	 } 
+	clerks = {
+		culture = russian
+		religion =  orthodox 
+		size = 1193
+	 } 
+	clerks = {
+		culture = russian
+		religion = irreligion
+		size = 1716
 	 } 
 	artisans = {
 		culture = russian
 		religion =  orthodox 
-		size = 1794
+		size = 3182
 	 } 
 	artisans = {
 		culture = russian
 		religion = irreligion
-		size = 2581
+		size = 4579
 	 } 
 	craftsmen = {
 		culture = russian
 		religion =  orthodox 
-		size = 5760
+		size = 4773
 	 } 
 	craftsmen = {
 		culture = russian
 		religion = irreligion
-		size = 8289
+		size = 23869
+	 } 
+	craftsmen = {
+		culture = russian
+		religion =  orthodox 
+		size = 13594
 	 } 
 	farmers = {
 		culture = russian
 		religion =  orthodox 
-		size = 72622
+		size = 10594
 	 } 
 	farmers = {
 		culture = russian
 		religion = irreligion
-		size = 104506
+		size = 11661
 	 } 
 	farmers = {
 		culture = tatar
 		religion =  sunni 
-		size = 21500
+		size = 8600
 	 } 
 	farmers = {
 		culture = kazak
 		religion =  sunni 
-		size = 16125
+		size = 11000
 	 } 
 	farmers = {
 		culture = bashkir
 		religion =  sunni 
-		size = 5375
+		size = 5000
 	 } 
 	farmers = {
 		culture = ukrainian
 		religion =  orthodox 
-		size = 3305
+		size = 3319
 	 } 
 	farmers = {
 		culture = ukrainian
 		religion = irreligion
-		size = 4756
+		size = 4777
 	 } 
 }
 #Tyumen - Tyumen (4137000/1034250 POPS)
 1061 = {
+
+	capitalists = {
+		culture = jewish
+		religion =  jewish 
+		size = 300
+	 } 
 	officers = {
 		culture = russian
 		religion =  orthodox 
@@ -6837,12 +6959,12 @@
 		religion = irreligion
 		size = 3050
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 2544
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 3660
@@ -6889,12 +7011,12 @@
 	 } 
 	farmers = {
 		culture = russian
-		religion =  orthodox 
+		religion =  irreligion 
 		size = 309158
 	 } 
 	farmers = {
 		culture = russian
-		religion = irreligion
+		religion = orthodox
 		size = 444885
 	 } 
 	farmers = {
@@ -6955,12 +7077,12 @@
 		religion = irreligion
 		size = 762
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 636
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 915
@@ -7073,12 +7195,12 @@
 		religion = irreligion
 		size = 2028
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 1691
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 2434
@@ -7146,6 +7268,12 @@
 }
 #Tobolsk - Tobolsk (795000/198750 POPS)
 1066 = {
+
+	 capitalists = {
+		culture = russian
+		religion =  orthodox 
+		size = 300
+	 } 
 	officers = {
 		culture = russian
 		religion =  orthodox 
@@ -7186,12 +7314,12 @@
 		religion = irreligion
 		size = 585
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 488
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 703
@@ -7314,12 +7442,12 @@
 		religion = irreligion
 		size = 2014
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 1680
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 2417
@@ -7417,12 +7545,12 @@
 		religion = irreligion
 		size = 552
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 461
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 663
@@ -7470,12 +7598,12 @@
 	farmers = {
 		culture = russian
 		religion =  orthodox 
-		size = 46823
+		size = 96823
 	 } 
 	farmers = {
 		culture = russian
 		religion = irreligion
-		size = 67380
+		size = 17380
 	 } 
 	farmers = {
 		culture = altay
@@ -7493,7 +7621,7 @@
 		size = 15000
 	 } 
 	farmers = {
-		culture = mennonites
+		culture = german
 		religion =  mennonite 
 		size = 1875
 	 } 
@@ -7560,12 +7688,12 @@
 		religion = irreligion
 		size = 13
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 11
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 16
@@ -7683,12 +7811,12 @@
 		religion = irreligion
 		size = 310
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 258
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 372
@@ -7806,12 +7934,12 @@
 		religion = irreligion
 		size = 1333
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 1112
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 1600
@@ -7869,6 +7997,22 @@
 }
 #Krasnoyarsk - Krasnoyarsk (2740000/685000 POPS)
 1077 = {
+
+ capitalists = {
+		culture = jewish
+		religion =  irreligion 
+		size = 300
+	 } 
+     capitalists = {
+		culture = byelorussian
+		religion =  irreligion 
+		size = 300
+	 } 
+	 capitalists = {
+		culture = russian
+		religion =  orthodox 
+		size = 600
+	 } 
 	officers = {
 		culture = russian
 		religion =  orthodox 
@@ -7909,12 +8053,12 @@
 		religion = irreligion
 		size = 2020
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 1685
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 2424
@@ -8037,12 +8181,12 @@
 		religion = irreligion
 		size = 758
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 632
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 910
@@ -8165,12 +8309,12 @@
 		religion = irreligion
 		size = 1003
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 836
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 1204
@@ -8218,22 +8362,17 @@
 	farmers = {
 		culture = russian
 		religion =  orthodox 
-		size = 107288
+		size = 157288
 	 } 
 	farmers = {
 		culture = russian
 		religion = irreligion
-		size = 154390
+		size = 104390
 	 } 
 	farmers = {
 		culture = buryat
 		religion =  buddhist 
-		size = 11160
-	 } 
-	farmers = {
-		culture = buryat
-		religion = irreligion
-		size = 16059
+		size = 27230
 	 } 
 }
 #Chernomin - Belogorsk (247000/61750 POPS)
@@ -8278,12 +8417,12 @@
 		religion = irreligion
 		size = 181
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 151
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 218
@@ -8391,12 +8530,12 @@
 		religion = irreligion
 		size = 256
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 214
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 307
@@ -8504,12 +8643,12 @@
 		religion = irreligion
 		size = 1510
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 1259
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 1812
@@ -8617,12 +8756,12 @@
 		religion = irreligion
 		size = 89
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 74
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 106
@@ -8730,12 +8869,12 @@
 		religion = irreligion
 		size = 260
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 216
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 312
@@ -8843,12 +8982,12 @@
 		religion = irreligion
 		size = 256
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 214
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 307
@@ -8966,12 +9105,12 @@
 		religion = irreligion
 		size = 256
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 214
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 307
@@ -9089,12 +9228,12 @@
 		religion = irreligion
 		size = 6
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 5
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 7
@@ -9182,12 +9321,12 @@
 		religion = irreligion
 		size = 10
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 4
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 10
@@ -9285,12 +9424,12 @@
 		religion = irreligion
 		size = 227
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 189
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 273
@@ -9352,7 +9491,7 @@
 	 } 
 	farmers = {
 		culture = tuvans
-		religion = irreligion
+		religion = buddhist 
 		size = 29169
 	 } 
 }
@@ -9398,12 +9537,12 @@
 		religion = irreligion
 		size = 200
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 167
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 240
@@ -9501,12 +9640,12 @@
 		religion = irreligion
 		size = 342
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 285
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 411
@@ -9553,12 +9692,12 @@
 	 } 
 	farmers = {
 		culture = russian
-		religion =  orthodox 
+		religion =  irreligion
 		size = 38350
 	 } 
 	farmers = {
 		culture = russian
-		religion = irreligion
+		religion = orthodox 
 		size = 55187
 	 } 
 }
@@ -9604,12 +9743,12 @@
 		religion = irreligion
 		size = 181
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 151
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 218
@@ -9707,12 +9846,12 @@
 		religion = irreligion
 		size = 118
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 98
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 142
@@ -9760,22 +9899,22 @@
 	farmers = {
 		culture = russian
 		religion =  orthodox 
-		size = 10382
+		size = 19382
 	 } 
 	farmers = {
 		culture = russian
 		religion = irreligion
-		size = 14940
+		size = 5940
 	 } 
 	farmers = {
 		culture = siberian
 		religion =  orthodox 
-		size = 1154
+		size = 2754
 	 } 
 	farmers = {
 		culture = siberian
 		religion = irreligion
-		size = 1662
+		size = 62
 	 } 
 	farmers = {
 		culture = ukrainian
@@ -9830,12 +9969,12 @@
 		religion = irreligion
 		size = 22
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 18
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 27
@@ -9913,6 +10052,11 @@
 }
 #Krasnoselkup - Norilsk (203000/50750 POPS)
 2615 = {
+	 capitalists = {
+		culture = russian
+		religion =  orthodox 
+		size = 300
+	 } 
 	officers = {
 		culture = russian
 		religion =  orthodox 
@@ -9953,12 +10097,12 @@
 		religion = irreligion
 		size = 149
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 124
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 179
@@ -10056,12 +10200,12 @@
 		religion = irreligion
 		size = 844
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 703
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 1013
@@ -10169,12 +10313,12 @@
 		religion = irreligion
 		size = 156
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 130
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 187
@@ -10232,7 +10376,7 @@
 	farmers = {
 		culture = jewish
 		religion =  jewish 
-		size = 217
+		size = 2220
 	 } 
 	farmers = {
 		culture = jewish
@@ -10292,12 +10436,12 @@
 		religion = irreligion
 		size = 28
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 23
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 34
@@ -10415,12 +10559,12 @@
 		religion = irreligion
 		size = 395
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 329
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 474
@@ -10538,12 +10682,12 @@
 		religion = irreligion
 		size = 228
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 191
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 274
@@ -10611,6 +10755,12 @@
 }
 #Chilchi - Chilchi (9000/2250 POPS)
 2645 = {
+
+	 capitalists = {
+		culture = russian
+		religion =  orthodox 
+		size = 600
+	 } 
 	officers = {
 		culture = russian
 		religion =  orthodox 
@@ -10651,12 +10801,12 @@
 		religion = irreligion
 		size = 6
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 5
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 7
@@ -10774,12 +10924,12 @@
 		religion = irreligion
 		size = 380
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 317
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 456
@@ -10826,12 +10976,12 @@
 	 } 
 	farmers = {
 		culture = russian
-		religion =  orthodox 
+		religion =  irreligion 
 		size = 29040
 	 } 
 	farmers = {
 		culture = russian
-		religion = irreligion
+		religion = orthodox
 		size = 41790
 	 } 
 	farmers = {
@@ -10902,12 +11052,12 @@
 		religion = irreligion
 		size = 254
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 212
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 306
@@ -11015,12 +11165,12 @@
 		religion = irreligion
 		size = 254
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 212
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 306
@@ -11128,12 +11278,12 @@
 		religion = irreligion
 		size = 258
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 215
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 310
@@ -11256,12 +11406,12 @@
 		religion = irreligion
 		size = 2028
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 1691
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 2434
@@ -11309,12 +11459,12 @@
 	farmers = {
 		culture = russian
 		religion =  orthodox 
-		size = 202763
+		size = 342763
 	 } 
 	farmers = {
 		culture = russian
 		religion = irreligion
-		size = 291781
+		size = 151781
 	 } 
 	farmers = {
 		culture = german
@@ -11327,7 +11477,7 @@
 		size = 12172
 	 } 
 	farmers = {
-		culture = mennonites
+		culture = german
 		religion =  mennonite 
 		size = 6877
 	 } 
@@ -11394,12 +11544,12 @@
 		religion = irreligion
 		size = 1116
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 931
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 1340
@@ -11446,12 +11596,12 @@
 	 } 
 	farmers = {
 		culture = russian
-		religion =  orthodox 
+		religion =  irreligion 
 		size = 85265
 	 } 
 	farmers = {
 		culture = russian
-		religion = irreligion
+		religion = orthodox
 		size = 122698
 	 } 
 	farmers = {
@@ -11522,12 +11672,12 @@
 		religion = irreligion
 		size = 254
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 212
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 306
@@ -11635,12 +11785,12 @@
 		religion = irreligion
 		size = 364
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 303
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 437
@@ -11748,12 +11898,12 @@
 		religion = irreligion
 		size = 256
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 214
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 307
@@ -11861,12 +12011,12 @@
 		religion = irreligion
 		size = 2057
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 1715
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 2469
@@ -11922,7 +12072,7 @@
 		size = 341184
 	 } 
 	farmers = {
-		culture = mennonites
+		culture = german
 		religion =  mennonite 
 		size = 6975
 	 } 
@@ -11979,12 +12129,12 @@
 		religion = irreligion
 		size = 460
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 383
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 552
@@ -12117,12 +12267,12 @@
 		religion = irreligion
 		size = 200
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 167
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 240
@@ -12220,12 +12370,12 @@
 		religion = irreligion
 		size = 488
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 407
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 586
@@ -12353,12 +12503,12 @@
 		religion = irreligion
 		size = 124
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 103
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 149
@@ -12486,12 +12636,12 @@
 		religion = irreligion
 		size = 1354
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 1129
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 1625
@@ -12589,12 +12739,12 @@
 		religion = irreligion
 		size = 976
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 814
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 1171
@@ -12702,12 +12852,12 @@
 		religion = irreligion
 		size = 953
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 794
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 1144
@@ -12830,12 +12980,12 @@
 		religion = irreligion
 		size = 597
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 498
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 716
@@ -12933,12 +13083,12 @@
 		religion = irreligion
 		size = 119
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 100
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 143
@@ -13036,12 +13186,12 @@
 		religion = irreligion
 		size = 119
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 100
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 143
@@ -13139,12 +13289,12 @@
 		religion = irreligion
 		size = 177
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 148
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 212
@@ -13272,12 +13422,12 @@
 		religion = irreligion
 		size = 15
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 12
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 18
@@ -13335,12 +13485,12 @@
 	farmers = {
 		culture = komi
 		religion =  orthodox 
-		size = 1183
+		size = 2883
 	 } 
 	farmers = {
 		culture = komi
 		religion = irreligion
-		size = 1703
+		size = 3
 	 } 
 	farmers = {
 		culture = asian_minor
@@ -13395,12 +13545,12 @@
 		religion = irreligion
 		size = 8
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 24
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 20
@@ -13498,12 +13648,12 @@
 		religion = irreligion
 		size = 254
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 212
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 306
@@ -13636,12 +13786,12 @@
 		religion = irreligion
 		size = 36
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 30
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 44
@@ -13769,12 +13919,12 @@
 		religion = irreligion
 		size = 548
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 457
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 658
@@ -13872,12 +14022,12 @@
 		religion = irreligion
 		size = 35
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 29
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 43
@@ -13975,12 +14125,12 @@
 		religion = irreligion
 		size = 35
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 29
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 43
@@ -14078,12 +14228,12 @@
 		religion = irreligion
 		size = 35
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 29
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 43
@@ -14181,12 +14331,12 @@
 		religion = irreligion
 		size = 181
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 151
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 218
@@ -14284,12 +14434,12 @@
 		religion = irreligion
 		size = 3662
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 3054
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 4395
@@ -14432,12 +14582,12 @@
 		religion = irreligion
 		size = 368
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 307
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 442
@@ -14565,12 +14715,12 @@
 		religion = irreligion
 		size = 401
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 334
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 482
@@ -14668,12 +14818,12 @@
 		religion = irreligion
 		size = 200
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 167
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 240
@@ -14771,12 +14921,12 @@
 		religion = irreligion
 		size = 487
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 407
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 585
@@ -14874,12 +15024,12 @@
 		religion = irreligion
 		size = 145
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 120
 	 } 
-	capitalists = {
+	officers = {
 		culture = russian
 		religion = irreligion
 		size = 174
@@ -14933,5 +15083,89 @@
 		culture = russian
 		religion = irreligion
 		size = 24674
+	 } 
+}
+
+#Grozny - Chechnya (1084000/271000 POPS)
+1055 = {
+	aristocrats = {
+		culture = chechen
+		religion =  sunni 
+		size = 6775
+	 } 
+	bureaucrats = {
+		culture = chechen
+		religion =  sunni 
+		size = 1355
+	 } 
+	capitalists = {
+		culture = chechen
+		religion =  sunni 
+		size = 1626
+	 } 
+	clergymen = {
+		culture = chechen
+		religion =  sunni 
+		size = 2710
+	 } 
+	clerks = {
+		culture = chechen
+		religion =  sunni 
+		size = 7555
+	 } 
+	artisans = {
+		culture = chechen
+		religion =  sunni 
+		size = 7177
+	 } 
+	craftsmen = {
+		culture = chechen
+		religion =  sunni 
+		size = 23044
+	 } 
+	farmers = {
+		culture = chechen
+		religion =  sunni 
+		size = 100908
+	 } 
+	farmers = {
+		culture = ingush
+		religion =  sunni 
+		size = 5420
+	 } 
+	farmers = {
+		culture = armenian
+		religion =  orthodox 
+		size = 1111
+	 } 
+	farmers = {
+		culture = armenian
+		religion = irreligion
+		size = 1598
+	 } 
+	farmers = {
+		culture = ukrainian
+		religion =  orthodox 
+		size = 1111
+	 } 
+	farmers = {
+		culture = ukrainian
+		religion = irreligion
+		size = 1598
+	 } 
+	farmers = {
+		culture = russian
+		religion =  orthodox 
+		size = 33333
+	 } 
+	soldiers = {
+		culture = chechen
+		religion =  sunni 
+		size = 27168
+	 } 
+	farmers = {
+		culture = russian
+		religion = irreligion
+		size = 47967
 	 } 
 }

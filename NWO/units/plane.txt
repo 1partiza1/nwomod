@@ -12,7 +12,7 @@ plane = {
 	priority = 45
 	max_strength = 3
 	default_organisation = 30
-	maximum_speed = 5.00
+	maximum_speed = 400.00
 	weighted_value = 10.0
 
 
