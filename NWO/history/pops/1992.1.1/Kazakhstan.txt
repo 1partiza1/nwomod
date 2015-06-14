@@ -23,42 +23,52 @@
 	farmers = {
 		culture = kazak
 		religion =  sunni 
-		size = 4406
+		size = 3706
 	 } 
 	farmers = {
 		culture = russian
 		religion =  orthodox 
-		size = 33072
+		size = 26072
 	 } 
 	farmers = {
 		culture = russian
 		religion = irreligion
-		size = 27059
+		size = 60059
 	 } 
 	farmers = {
 		culture = ukrainian
 		religion =  orthodox 
-		size = 2961
+		size = 10961
 	 } 
 	farmers = {
 		culture = ukrainian
 		religion = irreligion
-		size = 2423
+		size = 9423
+	 } 
+	farmers = {
+		culture = byelorussian
+		religion =  orthodox 
+		size = 6001
+	 } 
+	farmers = {
+		culture = byelorussian
+		religion = irreligion
+		size = 8273
 	 } 
 	farmers = {
 		culture = tatar
 		religion =  sunni 
-		size = 2692
+		size = 5092
 	 } 
 	farmers = {
 		culture = german
 		religion =  catholic 
-		size = 1480
+		size = 5480
 	 } 
 	farmers = {
 		culture = german
 		religion = irreligion
-		size = 1211
+		size = 5211
 	 } 
 }
 #Guryev - Guryev (546000/136500 POPS)
@@ -91,7 +101,24 @@
 	farmers = {
 		culture = kazak
 		religion =  sunni 
-		size = 114533
+		size = 68533
+	 } 
+	 
+	farmers = {
+		culture = russian
+		religion =  orthodox 
+		size = 7464
+	 } 
+	farmers = {
+		culture = russian
+		religion = irreligion
+		size = 8895
+	 } 
+
+	farmers = {
+		culture = azerbaijani
+		religion =  shiite 
+		size = 3081
 	 } 
 }
 #Aqtobe - Aqtobe (388000/97000 POPS)
@@ -119,7 +146,18 @@
 	farmers = {
 		culture = kazak
 		religion =  sunni 
-		size = 81390
+		size = 53390
+	 } 
+
+	farmers = {
+		culture = russian
+		religion =  orthodox 
+		size = 18077
+	 } 
+	farmers = {
+		culture = russian
+		religion = irreligion
+		size = 17300
 	 } 
 }
 #Kokshetau - Kokshetau (587000/146750 POPS)
@@ -147,47 +185,52 @@
 	craftsmen = {
 		culture = kazak
 		religion =  sunni 
-		size = 9020
+		size = 7020
 	 } 
 	farmers = {
 		culture = kazak
 		religion =  sunni 
-		size = 7202
+		size = 4502
 	 } 
 	farmers = {
 		culture = russian
 		religion =  orthodox 
-		size = 54077
+		size = 58077
 	 } 
 	farmers = {
 		culture = russian
 		religion = irreligion
-		size = 44244
+		size = 98244
 	 } 
 	farmers = {
 		culture = ukrainian
 		religion =  orthodox 
-		size = 4842
+		size = 8842
 	 } 
 	farmers = {
 		culture = ukrainian
 		religion = irreligion
-		size = 3962
+		size = 9962
 	 } 
 	farmers = {
 		culture = tatar
 		religion =  sunni 
-		size = 4402
+		size = 8402
 	 } 
 	farmers = {
 		culture = german
 		religion =  catholic 
-		size = 2421
+		size = 4421
 	 } 
 	farmers = {
 		culture = german
 		religion = irreligion
-		size = 1980
+		size = 2980
+	 } 
+	farmers = {
+		culture = byelorussian
+		religion =  orthodox 
+		size = 6001
 	 } 
 }
 #Yasi - Yasi (1063000/265750 POPS)
@@ -225,7 +268,17 @@
 	farmers = {
 		culture = kazak
 		religion =  sunni 
-		size = 222981
+		size = 120981
+	 } 
+	farmers = {
+		culture = azerbaijani
+		religion =  shiite 
+		size = 4081
+	 } 
+	farmers = {
+		culture = korean
+		religion = irreligion
+		size = 6566
 	 } 
 }
 #Alma Ata - Alma Ata (3339000/834750 POPS)
@@ -268,12 +321,12 @@
 	craftsmen = {
 		culture = kazak
 		religion =  sunni 
-		size = 51310
+		size = 41310
 	 } 
 	farmers = {
 		culture = kazak
 		religion =  sunni 
-		size = 40950
+		size = 27950
 	 } 
 	farmers = {
 		culture = uighur
@@ -283,37 +336,48 @@
 	farmers = {
 		culture = russian
 		religion =  orthodox 
-		size = 284649
+		size = 444649
 	 } 
 	farmers = {
 		culture = russian
 		religion = irreligion
-		size = 232895
+		size = 402895
 	 } 
 	farmers = {
 		culture = ukrainian
 		religion =  orthodox 
-		size = 27546
+		size = 52546
 	 } 
 	farmers = {
 		culture = ukrainian
 		religion = irreligion
-		size = 22538
+		size = 64538
 	 } 
 	farmers = {
 		culture = tatar
 		religion =  sunni 
-		size = 25042
+		size = 50042
 	 } 
 	farmers = {
 		culture = german
 		religion =  catholic 
-		size = 13773
+		size = 65773
 	 } 
 	farmers = {
 		culture = german
 		religion = irreligion
-		size = 11268
+		size = 55268
+	 } 
+	farmers = {
+		culture = azerbaijani
+		religion =  shiite 
+		size = 10081
+	 } 
+	 
+	farmers = {
+		culture = korean
+		religion = irreligion
+		size = 10566
 	 } 
 }
 #Semipalatinsk - Semipalatinsk (751000/187750 POPS)
@@ -346,42 +410,42 @@
 	farmers = {
 		culture = kazak
 		religion =  sunni 
-		size = 9214
+		size = 6214
 	 } 
 	farmers = {
 		culture = russian
 		religion =  orthodox 
-		size = 69185
+		size = 80185
 	 } 
 	farmers = {
 		culture = russian
 		religion = irreligion
-		size = 56606
+		size = 102606
 	 } 
 	farmers = {
 		culture = ukrainian
 		religion =  orthodox 
-		size = 6195
+		size = 12195
 	 } 
 	farmers = {
 		culture = ukrainian
 		religion = irreligion
-		size = 5069
+		size = 20069
 	 } 
 	farmers = {
 		culture = tatar
 		religion =  sunni 
-		size = 5632
+		size = 11032
 	 } 
 	farmers = {
 		culture = german
 		religion =  catholic 
-		size = 3097
+		size = 15097
 	 } 
 	farmers = {
 		culture = german
 		religion = irreligion
-		size = 2534
+		size = 10534
 	 } 
 }
 #Qaratal - Qaratal (1404000/351000 POPS)
@@ -419,7 +483,7 @@
 	farmers = {
 		culture = kazak
 		religion =  sunni 
-		size = 252389
+		size = 128389
 	 } 
 	farmers = {
 		culture = uighur
@@ -457,7 +521,7 @@
 	farmers = {
 		culture = kazak
 		religion =  sunni 
-		size = 150405
+		size = 80405
 	 } 
 }
 #Aqtau - Aqtau (549000/137250 POPS)
@@ -490,7 +554,7 @@
 	farmers = {
 		culture = kazak
 		religion =  sunni 
-		size = 115163
+		size = 55163
 	 } 
 }
 #Shymkent - Shymkent (2642000/660500 POPS)
@@ -538,12 +602,24 @@
 	farmers = {
 		culture = kazak
 		religion =  sunni 
-		size = 435307
+		size = 222307
 	 } 
 	farmers = {
 		culture = uzbek
 		religion =  sunni 
 		size = 118890
+	 } 
+
+	farmers = {
+		culture = azerbaijani
+		religion =  shiite 
+		size = 5081
+	 } 
+
+	farmers = {
+		culture = greek
+		religion =  orthodox 
+		size = 5442
 	 } 
 }
 #Zhambul - Zhambul (1007000/251750 POPS)
@@ -581,7 +657,7 @@
 	farmers = {
 		culture = kazak
 		religion =  sunni 
-		size = 211236
+		size = 96236
 	 } 
 }
 #Uralsk - Uralsk (616000/154000 POPS)
@@ -614,7 +690,17 @@
 	farmers = {
 		culture = kazak
 		religion =  sunni 
-		size = 129218
+		size = 54218
+	 } 
+	farmers = {
+		culture = russian
+		religion =  orthodox 
+		size = 25464
+	 } 
+	farmers = {
+		culture = russian
+		religion = irreligion
+		size = 22895
 	 } 
 }
 #Turgay - Turgay (885000/221250 POPS)
@@ -652,42 +738,57 @@
 	farmers = {
 		culture = kazak
 		religion =  sunni 
-		size = 10856
+		size = 7856
 	 } 
 	farmers = {
 		culture = russian
 		religion =  orthodox 
-		size = 81530
+		size = 92530
 	 } 
 	farmers = {
 		culture = russian
 		religion = irreligion
-		size = 66706
+		size = 100706
 	 } 
 	farmers = {
 		culture = ukrainian
 		religion =  orthodox 
-		size = 7301
+		size = 14301
 	 } 
 	farmers = {
 		culture = ukrainian
 		religion = irreligion
-		size = 5973
+		size = 20973
+	 } 
+	farmers = {
+		culture = byelorussian
+		religion =  orthodox 
+		size = 8301
+	 } 
+	farmers = {
+		culture = byelorussian
+		religion = irreligion
+		size = 8673
 	 } 
 	farmers = {
 		culture = tatar
 		religion =  sunni 
-		size = 6637
+		size = 12637
 	 } 
 	farmers = {
 		culture = german
 		religion =  catholic 
-		size = 3650
+		size = 15650
 	 } 
 	farmers = {
 		culture = german
 		religion = irreligion
-		size = 2986
+		size = 10986
+	 } 
+	farmers = {
+		culture = korean
+		religion = irreligion
+		size = 6566
 	 } 
 }
 #Aktash - Aktash (1476000/369000 POPS)
@@ -725,7 +826,7 @@
 	farmers = {
 		culture = kazak
 		religion =  sunni 
-		size = 309613
+		size = 156613
 	 } 
 }
 #Aralsk - Aralsk (403000/100750 POPS)
@@ -758,6 +859,6 @@
 	farmers = {
 		culture = kazak
 		religion =  sunni 
-		size = 84537
+		size = 45537
 	 } 
 }

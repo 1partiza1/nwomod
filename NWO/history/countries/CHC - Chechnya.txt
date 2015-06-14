@@ -4,8 +4,8 @@ religion = irreligion
 government = islamist_dictatorship
 plurality = 59.0
 nationalvalue = nv_islamic
-literacy = 0.14
-non_state_culture_literacy = 0.08
+literacy = 0.12
+non_state_culture_literacy = 0.41
 civilized = yes
 prestige = 2
 ruling_party = party_islamist_0_CHC
@@ -128,6 +128,6 @@ schools = army_tech_school
 
 oob = "/CHC_oob.txt"
 
-1991.11.14 = {
+1991.12.29 = {
 decision = ethnic_cleansing
 }

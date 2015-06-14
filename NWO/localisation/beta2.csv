@@ -33,7 +33,7 @@ TECH_DAILY_RESEARCHPOINTS_TOTAL_TOOLTIP;Ежедневные очки исследования: §G+$VALUE$
 TECH_DAILY_RESEARCHPOINTS_TOOLTIP;$POPTYPE$ обеспечивают нам §G$VALUE$§W очков исследования\n(они составляют §Y$FRACTION$%§W населения при оптимальных $OPTIMAL$%).;X
 average_literacy;Грамотность;X
 MODIFIER_RESEARCH_POINTS;Очки исследования;X
-gas;Газовая атака;X
+gas;Газ;X
 COMBAT_GAS;Газовые атаки против врага, не обладающего средства защиты от них, могут быть просто разгромными.;X
 MAY_GAS_ATTACK;Можно устраивать газовые атаки\n;X
 MAY_GAS_DEFEND;Можно защищаться от газовых атак\n;X

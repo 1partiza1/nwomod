@@ -426,7 +426,8 @@ political_reforms = {
 		next_step_only = yes
 		minorities_oppression = { #oppression
 			rules = { primary_culture_voting = yes }
-			global_immigrant_attract = -0.1
+			global_immigrant_attract = -0.2
+	        immigrant_push = 1
 		}
 		minorities_equal_rights = { # limited
 			rules = { culture_voting = yes }

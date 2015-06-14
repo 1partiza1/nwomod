@@ -2201,8 +2201,8 @@
 		size = 1475
 	 } 
 	aristocrats = {
-		culture = ukrainian
-		religion = irreligion
+		culture = russian
+		religion =  orthodox 
 		size = 2864
 	 } 
 	bureaucrats = {

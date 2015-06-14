@@ -30,14 +30,14 @@ publishing_rights = censored_publishing
 gender_rights = gender_role_based
 vote_franschise = registered_voting
 # Social Reforms
+pensions = good_pensions 
+education = subsidised_higher_education 
+child_care = state_provided_child_care
+pollution = no_controls
 safety_regulations = some_regulations
-pensions = no_pensions
-education = self_financed_education
 health_care = no_health_care
 security_reform = police
-child_care = no_child_care
 unemployment_subsidies = no_subsidies
-pollution = no_controls
 wage_and_work_hours = unregulated_hours
 social_service_reform = no_social_service
 # Technologies

@@ -1,3 +1,7 @@
+CHC = {
+	level = 5
+	value = -125
+}
 SER = {
 	level = 4
 	value = 75

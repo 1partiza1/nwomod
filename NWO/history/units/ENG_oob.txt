@@ -1,3 +1,5 @@
+
+
 BRU = {
 	level = 4
 	value = 75
@@ -251,7 +253,7 @@ SRL = {
 	military_access = yes
 }
 HND = {
-	level = 4
+	level = 5
 	value = 75
 	influence_value = 25
 	military_access = yes

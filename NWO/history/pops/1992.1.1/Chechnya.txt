@@ -1,9 +1,10 @@
-#Grozny - Chechnya (1084000/271000 POPS)
+
+#Grozny - Chechnya (1224000/271000 POPS)
 1055 = {
 	soldiers = {
 		culture = chechen
 		religion =  sunni 
-		size = 2168
+		size = 27168
 	 } 
 	aristocrats = {
 		culture = chechen
@@ -43,7 +44,7 @@
 	farmers = {
 		culture = chechen
 		religion =  sunni 
-		size = 125908
+		size = 140908
 	 } 
 	farmers = {
 		culture = ingush
@@ -53,29 +54,29 @@
 	farmers = {
 		culture = armenian
 		religion =  orthodox 
-		size = 1111
+		size = 1611
 	 } 
-	farmers = {
+	craftsmen = {
 		culture = armenian
 		religion = irreligion
-		size = 1598
+		size = 1098
 	 } 
-	farmers = {
+	craftsmen = {
 		culture = ukrainian
 		religion =  orthodox 
 		size = 1111
 	 } 
-	farmers = {
+	craftsmen = {
 		culture = ukrainian
 		religion = irreligion
 		size = 1598
 	 } 
-	farmers = {
+	craftsmen = {
 		culture = russian
 		religion =  orthodox 
 		size = 33333
 	 } 
-	farmers = {
+	craftsmen = {
 		culture = russian
 		religion = irreligion
 		size = 47967

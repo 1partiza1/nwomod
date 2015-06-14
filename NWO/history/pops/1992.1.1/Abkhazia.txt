@@ -2,43 +2,43 @@
 1095 = {
 	soldiers = {
 		culture = abkhaz
-		religion =  sunni 
+		religion =  orthodox 
 		size = 1050
 	 } 
 	aristocrats = {
 		culture = abkhaz
-		religion =  sunni 
+		religion =  orthodox 
 		size = 5250
 	 } 
 	clergymen = {
 		culture = abkhaz
-		religion =  sunni 
+		religion =  orthodox 
 		size = 1312
 	 } 
 	clerks = {
 		culture = abkhaz
-		religion =  sunni 
+		religion =  orthodox 
 		size = 2627
 	 } 
 	artisans = {
 		culture = abkhaz
-		religion =  sunni 
+		religion =  orthodox 
 		size = 2495
 	 } 
 	craftsmen = {
 		culture = abkhaz
-		religion =  sunni 
+		religion =  orthodox 
 		size = 8012
 	 } 
 	farmers = {
 		culture = abkhaz
 		religion =  sunni 
-		size = 1699
+		size = 8699
 	 } 
 	farmers = {
 		culture = georgian
 		religion =  orthodox 
-		size = 27772
+		size = 20772
 	 } 
 	farmers = {
 		culture = georgian

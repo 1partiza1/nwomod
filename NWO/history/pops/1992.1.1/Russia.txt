@@ -849,7 +849,7 @@
 	farmers = {
 		culture = russian
 		religion = irreligion
-		size = 1481708
+		size = 1463708
 	 } 
 	farmers = {
 		culture = ukrainian
@@ -869,12 +869,7 @@
 	farmers = {
 		culture = armenian
 		religion =  orthodox 
-		size = 15798
-	 } 
-	farmers = {
-		culture = armenian
-		religion = irreligion
-		size = 22733
+		size = 38498
 	 } 
 	farmers = {
 		culture = azerbaijani
@@ -910,6 +905,16 @@
 		culture = chechen
 		religion =  sunni  
 		size = 109
+	 } 
+	farmers = {
+		culture = jewish
+		religion =  jewish 
+		size = 7600
+	 } 
+	farmers = {
+		culture = jewish
+		religion = irreligion
+		size = 10826
 	 } 
 }
 #Borodino - Borodino (197000/49250 POPS)
@@ -6014,114 +6019,7 @@
 		size = 2212
 	 } 
 }
-#Gunib - Ingushethia (180000/45000 POPS)
-1053 = {
-	officers = {
-		culture = russian
-		religion =  orthodox 
-		size = 36
-	 } 
-	officers = {
-		culture = russian
-		religion = irreligion
-		size = 53
-	 } 
-	soldiers = {
-		culture = russian
-		religion =  orthodox 
-		size = 147
-	 } 
-	soldiers = {
-		culture = russian
-		religion = irreligion
-		size = 212
-	 } 
-	aristocrats = {
-		culture = ingush
-		religion =  sunni 
-		size = 461
-	 } 
-	aristocrats = {
-		culture = russian
-		religion = irreligion
-		size = 663
-	 } 
-	bureaucrats = {
-		culture = russian
-		religion =  orthodox 
-		size = 92
-	 } 
-	bureaucrats = {
-		culture = russian
-		religion = irreligion
-		size = 132
-	 } 
-	officers = {
-		culture = russian
-		religion =  orthodox 
-		size = 110
-	 } 
-	officers = {
-		culture = russian
-		religion = irreligion
-		size = 159
-	 } 
-	clergymen = {
-		culture = russian
-		religion =  orthodox 
-		size = 184
-	 } 
-	clergymen = {
-		culture = russian
-		religion = irreligion
-		size = 265
-	 } 
-	clerks = {
-		culture = russian
-		religion =  orthodox 
-		size = 514
-	 } 
-	clerks = {
-		culture = russian
-		religion = irreligion
-		size = 739
-	 } 
-	artisans = {
-		culture = russian
-		religion =  orthodox 
-		size = 488
-	 } 
-	artisans = {
-		culture = russian
-		religion = irreligion
-		size = 702
-	 } 
-	craftsmen = {
-		culture = russian
-		religion =  orthodox 
-		size = 731
-	 } 
-	craftsmen = {
-		culture = russian
-		religion = irreligion
-		size = 1053
-	 } 
-	craftsmen = {
-		culture = ingush
-		religion =  sunni 
-		size = 2041
-	 } 
-	farmers = {
-		culture = ingush
-		religion =  sunni 
-		size = 31709
-	 } 
-	farmers = {
-		culture = chechen
-		religion =  sunni 
-		size = 4500
-	 } 
-}
+
 #Vladikavkaz - North Ossetia (634000/158500 POPS)
 1054 = {
 	officers = {
@@ -6395,14 +6293,19 @@
 }
 #Kizylyar - Dagestan (1802000/450500 POPS)
 1057 = {
+	farmers = {
+		culture = jewish
+		religion = jewish
+		size = 4505
+	 } 
 	officers = {
 		culture = russian
 		religion =  orthodox 
 		size = 369
 	 } 
 	officers = {
-		culture = russian
-		religion = irreligion
+		culture = avar
+		religion =  sunni
 		size = 531
 	 } 
 	soldiers = {
@@ -6418,7 +6321,7 @@
 	aristocrats = {
 		culture = dargwa
 		religion =  sunni 
-		size = 4617
+		size = 14617
 	 } 
 	aristocrats = {
 		culture = russian
@@ -6431,8 +6334,8 @@
 		size = 923
 	 } 
 	bureaucrats = {
-		culture = russian
-		religion = irreligion
+		culture = avar
+		religion =  sunni
 		size = 1328
 	 } 
 	officers = {
@@ -6441,8 +6344,8 @@
 		size = 1108
 	 } 
 	officers = {
-		culture = russian
-		religion = irreligion
+		culture = avar
+		religion =  sunni
 		size = 1594
 	 } 
 	clergymen = {
@@ -6451,8 +6354,8 @@
 		size = 1847
 	 } 
 	clergymen = {
-		culture = russian
-		religion = irreligion
+		culture = avar
+		religion =  sunni
 		size = 2657
 	 } 
 	clerks = {
@@ -6475,14 +6378,24 @@
 		religion = irreligion
 		size = 7039
 	 } 
+	artisans = {
+		culture = dargwa
+		religion =  sunni 
+		size = 15219
+	 } 
+	artisans = {
+		culture = avar
+		religion =  sunni 
+		size = 10462
+	 } 
 	craftsmen = {
 		culture = russian
 		religion =  orthodox 
 		size = 3626
 	 } 
 	craftsmen = {
-		culture = russian
-		religion = irreligion
+		culture = dargwa
+		religion =  sunni 
 		size = 5219
 	 } 
 	craftsmen = {
@@ -6493,7 +6406,7 @@
 	farmers = {
 		culture = avar
 		religion =  sunni 
-		size = 96678
+		size = 90678
 	 } 
 	farmers = {
 		culture = dargwa
@@ -15085,87 +14998,106 @@
 		size = 24674
 	 } 
 }
-
-#Grozny - Chechnya (1084000/271000 POPS)
-1055 = {
+#Gunib - Ingushethia (180000/45000 POPS)
+1053 = {
+	officers = {
+		culture = russian
+		religion =  orthodox 
+		size = 36
+	 } 
+	officers = {
+		culture = russian
+		religion = irreligion
+		size = 53
+	 } 
+	soldiers = {
+		culture = ingush
+		religion =  sunni
+		size = 360
+	 } 
 	aristocrats = {
-		culture = chechen
+		culture = ingush
 		religion =  sunni 
-		size = 6775
+		size = 461
+	 } 
+	aristocrats = {
+		culture = russian
+		religion = irreligion
+		size = 663
 	 } 
 	bureaucrats = {
-		culture = chechen
-		religion =  sunni 
-		size = 1355
+		culture = russian
+		religion =  orthodox 
+		size = 92
 	 } 
-	capitalists = {
-		culture = chechen
-		religion =  sunni 
-		size = 1626
+	bureaucrats = {
+		culture = russian
+		religion = irreligion
+		size = 132
+	 } 
+	officers = {
+		culture = russian
+		religion =  orthodox 
+		size = 110
+	 } 
+	officers = {
+		culture = russian
+		religion = irreligion
+		size = 159
 	 } 
 	clergymen = {
-		culture = chechen
-		religion =  sunni 
-		size = 2710
+		culture = russian
+		religion =  orthodox 
+		size = 184
+	 } 
+	clergymen = {
+		culture = russian
+		religion = irreligion
+		size = 265
 	 } 
 	clerks = {
-		culture = chechen
-		religion =  sunni 
-		size = 7555
+		culture = russian
+		religion =  orthodox 
+		size = 514
+	 } 
+	clerks = {
+		culture = russian
+		religion = irreligion
+		size = 739
 	 } 
 	artisans = {
-		culture = chechen
-		religion =  sunni 
-		size = 7177
+		culture = russian
+		religion =  orthodox 
+		size = 488
+	 } 
+	artisans = {
+		culture = russian
+		religion = irreligion
+		size = 702
 	 } 
 	craftsmen = {
-		culture = chechen
-		religion =  sunni 
-		size = 23044
+		culture = russian
+		religion =  orthodox 
+		size = 731
 	 } 
-	farmers = {
-		culture = chechen
+	craftsmen = {
+		culture = russian
+		religion = irreligion
+		size = 1053
+	 } 
+	craftsmen = {
+		culture = ingush
 		religion =  sunni 
-		size = 100908
+		size = 2041
 	 } 
 	farmers = {
 		culture = ingush
 		religion =  sunni 
-		size = 5420
+		size = 31709
 	 } 
 	farmers = {
-		culture = armenian
-		religion =  orthodox 
-		size = 1111
-	 } 
-	farmers = {
-		culture = armenian
-		religion = irreligion
-		size = 1598
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 1111
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion = irreligion
-		size = 1598
-	 } 
-	farmers = {
-		culture = russian
-		religion =  orthodox 
-		size = 33333
-	 } 
-	soldiers = {
 		culture = chechen
 		religion =  sunni 
-		size = 27168
-	 } 
-	farmers = {
-		culture = russian
-		religion = irreligion
-		size = 47967
+		size = 4500
 	 } 
 }

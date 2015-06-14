@@ -169,6 +169,7 @@ country_event = { # family_values
 		}
 		any_owned = {
 			limit = {
+				NOT = { pop_majority_culture = chinese }
 				NOT = { has_province_modifier = family_values }
 				OR = {
  				NOT = {	pop_majority_religion = irreligion }
@@ -276,7 +277,7 @@ province_event = { # mennonites
 	
 	trigger = {
 		any_pop = { 
-			culture = mennonites
+			religion = mennonite
 		}
 	}
 	
@@ -287,7 +288,7 @@ province_event = { # mennonites
 	option = {
 		name = EVT_2260613_OPTA
 		any_pop = { 
-			limit = { culture = mennonites }
+			limit = { religion = mennonite }
 			reduce_pop = 1.35
 		}
 	}

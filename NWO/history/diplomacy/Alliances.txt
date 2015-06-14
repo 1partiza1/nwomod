@@ -1,4 +1,5 @@
 # GENERATED
+
 alliance = {
 	first = SAA
 	second = CHC

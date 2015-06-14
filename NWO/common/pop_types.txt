@@ -592,10 +592,6 @@ emigration_chance =
 		}
 	}
 	modifier = { 
-		factor = 10
-		country = { tag = MEX }
-	}
-	modifier = { 
 		factor = 2
 		OR = { culture  = mestizo culture  = white_spanish culture  = sunni_arab culture  = somali culture  = turkish culture  = black_anglo culture  = black_french culture  = black_portuguese } 
 	}
@@ -606,25 +602,24 @@ emigration_chance =
 	}
 	# roundabout way to mod that mostly refugees emigrate
 	modifier = { 
-		factor = 0.2
-		country = { 
-			NOT = { 
-				OR = {
-					government = absolute_monarchy
-					government = hms_government
-					government = democracy
-					government = proletarian_dictatorship
-				}
-			}
-		}
-	}
+		factor = -1.8
+ 		country = {
+ 			NOT = { tag = MEX }
+ 			OR = {
+ 				government = absolute_monarchy
+ 				government = hms_government
+ 				government = democracy
+ 				government = proletarian_dictatorship
+  			}
+  		}
+ 	} 
 	modifier = { 
 		factor = -0.4
 		country = { immigration_policy = nobody_gets_out }
 	}	
 	modifier = { # roundabout way to mod that only people with money can emigrate
 		factor = -0.1
-		NOT = { country = {  tag = MEX } }
+ 		country = {  NOT = { tag = MEX } }
 		strata = poor
 	}
 	modifier = {
@@ -849,15 +844,16 @@ assimilation_chance =
 		has_pop_religion = jewish
 	}
 	modifier = {
-		factor = -1
+		factor = -10
 		has_pop_religion = mennonite
 	}
 	modifier = {
+ 		factor = 1
+ 		strata = middle
+ 	}
+	modifier = {
 		factor = 5
-		OR = { 
 			strata = rich
-			strata = middle
-		}
 	}
 	modifier = {
 		factor = -10
@@ -870,21 +866,17 @@ assimilation_chance =
 		is_primary_culture = no
 	}
 	modifier = {
-		factor = 2
+		factor = 1
 		country = { citizenship_policy = limited_citizenship }
 		is_accepted_culture = yes
 	}
 	modifier = {
-		factor = 5
+		factor = 2
 		country = { citizenship_policy = full_citizenship }
 	}
 	modifier = {
 		factor = 3
-		country = { religious_policy = pro_atheism }
-	}
-	modifier = {
-		factor = 2
-		country = { religious_policy = secularized }
+		has_pop_religion = irreligion
 	}
 	modifier = {
     	factor = -100

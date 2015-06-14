@@ -90,9 +90,15 @@ country_migration_target =
 	modifier = { factor = 1.1 rank = 200 }
 	
 		modifier = {
-		factor = 3
+		factor = 4
 		is_sphere_leader_of = THIS
 	}
+	
+	modifier = {
+		factor = 1.5
+		neighbour = FROM
+	}
+	neighbour = [tag/FROM/THIS]
 
 	modifier = {
 		factor = 0.9
@@ -418,10 +424,10 @@ migration_target =
 
 promote_to =
 {
-	craftsmen = {
-		factor = 0.01
-		modifier = { factor = 5 location = { work_available = { worker = craftsmen } NOT = { unemployment_by_type = { type = craftsmen value = 0.3 } } } }
-	}
+	#craftsmen = {
+	#	factor = 0.01
+	#	modifier = { factor = 5 location = { work_available = { worker = craftsmen } NOT = { unemployment_by_type = { type = craftsmen value = 0.3 } } } }
+	#}
 	
 	bureaucrats =
 	{
@@ -447,11 +453,11 @@ promote_to =
 		}
 	}
 	
-	clerks = {
-		factor = 0.01
-		modifier = { factor = 20 location = { work_available = { worker = clerks } NOT = { unemployment_by_type = { type = clerks value = 0.2 } } } }
-		modifier = { factor = -20 location = { work_available = { worker = clerks } unemployment_by_type = { type = clerks value = 0.2 } } }
-	}
+	#clerks = {
+	#	factor = 0.01
+	#	modifier = { factor = 20 location = { work_available = { worker = clerks } NOT = { unemployment_by_type = { type = clerks value = 0.2 } } } }
+	#	modifier = { factor = -20 location = { work_available = { worker = clerks } unemployment_by_type = { type = clerks value = 0.2 } } }
+	#}
 
 	soldiers =
 	{
@@ -467,7 +473,52 @@ promote_to =
 			modifier = { factor = -2 state_scope = { soldiers = 0.08 } }
 		}
 	}
-
+artisans =
+	{
+		factor = 0.01
+			modifier = {
+				factor = 1
+				literacy = 0.1 
+			}
+			modifier = {
+				factor = 1
+				literacy = 0.2 
+			}
+			modifier = {
+				factor = 1
+				literacy = 0.3 
+			}
+			modifier = {
+				factor = 1
+				literacy = 0.4  
+			}
+			modifier = {
+				factor = 1
+				literacy = 0.6 
+			}
+		group = {		
+			modifier = {
+				factor = 1
+				clergymen = 0.008
+			}
+	
+			modifier = {
+				factor = 1
+				clergymen = 0.016
+			}			
+		
+			modifier = {
+				factor = 1
+				clergymen = 0.024
+			}			
+			
+			modifier = {
+				factor = 1
+				clergymen = 0.032
+			}			
+					
+		}
+	}
 }
 
 
@@ -480,6 +531,10 @@ ideologies = {
 		modifier = {
 			factor = 0.5
 			not = { militancy = 6 }
+		}
+		modifier = {
+			factor = 1.1
+		 	location = { has_recent_imigration = 350 }
 		}
 		modifier = {
 			factor = 1.1
