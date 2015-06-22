@@ -607,7 +607,7 @@ NAVAL_SORT_LABEL;Сортировать по:;x
 NAVAL_SORT_TYPE;Тип;x
 NAVAL_SORT_STANCE;Позиция;x
 NAVAL_SORT_STR_ORG;Организация;x
-battleship;Линкор;x
+battleship;Авианосец;x
 UNCOLONIZED_WITHDRAW;Отступить;x
 UNCOLONIZED_INVEST_LVL1;Экспедиция;x
 UNCOLONIZED_INVEST_LVL2;Колонисты;x

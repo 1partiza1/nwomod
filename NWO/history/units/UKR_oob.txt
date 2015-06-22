@@ -627,3 +627,28 @@ army = {
 		home = 958
 	}
 }
+
+navy = {
+	name = "Ukraine Navy"
+	location = 967
+	ship = {
+		name= "Varyag"
+		type = battleship
+	}
+	ship = {
+		name= "Chip nr1"
+		type = steam_transport
+	}
+	ship = {
+		name= "Chip nr1"
+		type = ironclad
+	}
+	ship = {
+		name= "Chip nr1"
+		type = manowar
+	}
+	ship = {
+		name= "Chip nr1"
+		type = manowar
+	}
+}

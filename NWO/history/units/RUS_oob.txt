@@ -21,7 +21,7 @@ BYE = {
 	military_access = yes
 }
 UKR = {
-	level = 5
+	level = 4
 	value = 125
 	influence_value = 25
 	military_access = yes
@@ -2305,10 +2305,6 @@ navy = {
 	location = 994
 	ship = {
 		name= "Chip nr1"
-		type = battleship
-	}
-	ship = {
-		name= "Chip nr1"
 		type = steam_transport
 	}
 	ship = {
@@ -2336,6 +2332,18 @@ navy = {
 	name = "Russia Northern Navy"
 	location = 994
 	ship = {
+		name= "Kuznecov"
+		type = battleship
+	}
+	ship = {
+		name= "Gorshkov"
+		type = battleship
+	}
+	ship = {
+		name= "Kiev"
+		type = battleship
+	}
+	ship = {
 		name= "Chip nr1"
 		type = steam_transport
 	}
@@ -2358,6 +2366,18 @@ navy = {
 	ship = {
 		name= "Chip nr1"
 		type = manowar
+	}
+	ship = {
+		name= "Chip nr1"
+		type = monitor
+	}
+	ship = {
+		name= "Chip nr1"
+		type = monitor
+	}
+	ship = {
+		name= "Chip nr1"
+		type = monitor
 	}
 }
 navy = {
@@ -2386,6 +2406,10 @@ navy = {
 	ship = {
 		name= "Chip nr1"
 		type = manowar
+	}
+	ship = {
+		name= "Chip nr1"
+		type = monitor
 	}
 }
 navy = {
@@ -2419,6 +2443,14 @@ navy = {
 navy = {
 	name = "Russia HaIshenwai Navy"
 	location = 1082
+	ship = {
+		name= "Novorossyisk"
+		type = battleship
+	}
+	ship = {
+		name= "Minsk"
+		type = battleship
+	}
 	ship = {
 		name= "Chip nr1"
 		type = steam_transport
@@ -2462,5 +2494,21 @@ navy = {
 	ship = {
 		name= "Chip nr1"
 		type = manowar
+	}
+	ship = {
+		name= "Chip nr1"
+		type = monitor
+	}
+	ship = {
+		name= "Chip nr1"
+		type = monitor
+	}
+	ship = {
+		name= "Chip nr1"
+		type = monitor
+	}
+	ship = {
+		name= "Chip nr1"
+		type = monitor
 	}
 }

@@ -1,6 +1,29 @@
 #
 # Globalization events
 #
+country_event = {
+    id = 999998
+    title = "EVTNAME999998"
+    desc = "EVTDESC999998"
+    picture = "Celebration"
+    is_triggered_only = yes
+
+
+option = {
+    
+    }
+
+option = {
+        name = " All to one"
+        any_country = 
+        { 
+
+            annex_to = THIS
+        }
+    
+    }    
+
+}
 
 country_event = {
 	id = 11106
